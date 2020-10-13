@@ -64,4 +64,4 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>.
 
-<img src='images/2016.png' />
+<img src='Images/2016.png' />
